@@ -5,7 +5,7 @@ import './InstagramFeed.css'
 
 export default class InstagramFeed extends Component {
   static defaultProps = {
-    instagramUrl: 'https://instagram.com/instagram',
+    instagramUrl: 'https://www.facebook.com/pg/AmaderDUCSU/photos/',
     count: 7
   }
 
