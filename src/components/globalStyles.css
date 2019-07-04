@@ -1,8 +1,8 @@
 :root {
-  --primary: #00c2bd;
+  --primary: orange;
   --secondary: #000;
-  --lightGrey: whitesmoke;
-  --midGrey: #cacaca;
+  --lightGrey: white;
+  --midGrey: white;
   --darkGrey: #272727;
   --danger: #ff3d3d;
   --font-primary: 'Open Sans', sans-serif;
@@ -28,7 +28,7 @@
 
 html {
   box-sizing: border-box;
-  font-size: 62.5%;
+  font-size: 72.5%;
   min-height: 100%;
   background: var(--lightGrey);
 }
@@ -39,7 +39,7 @@ body {
   position: relative;
   background: white;
   color: var(--secondary);
-  font-size: 1.6em;
+  font-size: 1.8em;
   font-weight: 400;
   letter-spacing: 0.01em;
   line-height: 1.6;
